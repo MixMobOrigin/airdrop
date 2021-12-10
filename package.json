@@ -1,0 +1,9 @@
+{
+  "name": "mixmob-airdrop",
+  "version": "1.0.0",
+  "description": "MixMob airdrop scripts for fairness",
+  "main": "index.js",
+  "repository": "https://github.com/MixMobOrigin/airdrop",
+  "author": "Mixmob Dev",
+  "license": "MIT"
+}
